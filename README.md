@@ -1,4 +1,8 @@
 Hi 👋, I'm, Talys MIhaliuc
+
+- 🔭 I’m currently working with ... SQL, PyThon, PowerBI anda Excel
+- - 🌱 I’m currently learning ... Python and Machine Learning ...
+
 <!--
 **TalysMihaliuc/TalysMihaliuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
