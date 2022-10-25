@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talys Mihaliuc</h1>
 <h3 align="center">A passionate data analytics from Brasil</h3>
 
-- 🌱 I’m currently learning **Python, SQL, ML and AI**
+- 🌱 I’m currently learning **Machine Learning  and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
